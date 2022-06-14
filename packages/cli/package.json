@@ -35,7 +35,7 @@
     "@backstage/config-loader": "^0.6.0",
     "@hot-loader/react-dom": "^16.13.0",
     "@lerna/package-graph": "^4.0.0",
-    "@lerna/project": "^4.0.0",
+    "@lerna/project": "^5.1.2",
     "@octokit/request": "^5.4.12",
     "@rollup/plugin-commonjs": "^17.1.0",
     "@rollup/plugin-json": "^4.0.2",
