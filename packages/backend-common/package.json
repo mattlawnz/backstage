@@ -34,12 +34,12 @@
     "@backstage/config-loader": "^0.6.0",
     "@backstage/errors": "^0.1.1",
     "@backstage/integration": "^0.5.1",
-    "@google-cloud/storage": "^5.8.0",
-    "@octokit/rest": "^18.0.12",
+    "@google-cloud/storage": "^5.19.0",
+    "@octokit/rest": "^20.0.0",
     "@types/cors": "^2.8.6",
     "@types/dockerode": "^3.2.1",
     "@types/express": "^4.17.6",
-    "archiver": "^5.0.2",
+    "archiver": "^5.3.2",
     "compression": "^1.7.4",
     "concat-stream": "^2.0.0",
     "cors": "^2.8.5",
@@ -48,9 +48,9 @@
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
     "fs-extra": "^9.0.1",
-    "git-url-parse": "^11.4.4",
+    "git-url-parse": "^12.0.0",
     "helmet": "^4.0.0",
-    "isomorphic-git": "^1.8.0",
+    "isomorphic-git": "^1.11.1",
     "knex": "^0.95.1",
     "lodash": "^4.17.15",
     "logform": "^2.1.1",
@@ -61,8 +61,8 @@
     "selfsigned": "^1.10.7",
     "stoppable": "^1.1.0",
     "tar": "^6.0.5",
-    "unzipper": "^0.10.11",
-    "winston": "^3.2.1"
+    "unzipper": "^0.12.1",
+    "winston": "^3.3.4"
   },
   "peerDependencies": {
     "pg-connection-string": "^2.3.0"
