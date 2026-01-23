@@ -28,7 +28,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "4.0.0-alpha.45",
     "cross-fetch": "^3.0.6",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "luxon": "^1.26.0",
     "qs": "^6.9.6",
     "react": "^16.13.1",
